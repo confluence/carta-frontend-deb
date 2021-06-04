@@ -1,4 +1,4 @@
-carta-frontend (2.0.0-1~focal1) focal; urgency=medium
+carta-frontend (2.0.0-1~bionic1) bionic; urgency=medium
 
   * v2.0: Feature enhancement and codebase maintenance (released 7th June 2021) 
   * Multi-profile plot with the spectral profiler
