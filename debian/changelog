@@ -1,5 +1,17 @@
-carta-frontend (1.4.1-1~focal1) focal; urgency=medium
+carta-frontend (2.0.0-1~focal1) focal; urgency=medium
 
-  * Initial build of release version. Built frontend copied from npm package (carta-frontend@1.4.0-rc.2).
+  * v2.0: Feature enhancement and codebase maintenance (released 7th June 2021) 
+  * Multi-profile plot with the spectral profiler
+  * Progress report and cancellation when requesting a long file list
+  * Forming a Stokes hypercube at image loading stage
+  * Colorbar display in the image viewer and enhanced raster image config widget
+  * Support rectangular pixel rendering for PV image
+  * Filtering function in the spectral line query widget
+  * Enhanced FITS and CASA image support
+  * Saving subimage
+  * Searching a keyword from image header
+  * Profile fitting in the spectral profiler 
+  * Marker-based catalog rendering and performance enhancement
+  * New deployment modes
 
- -- Adrianna Pińska <adrianna.pinska@gmail.com>  Wed, 03 Mar 2021 13:52:46 +0200
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 04 Jun 2021 11:22:13 +0200
